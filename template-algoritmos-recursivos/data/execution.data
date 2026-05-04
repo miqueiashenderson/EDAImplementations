@@ -1,0 +1,11 @@
+alg time sample
+iterativa 559 1000
+iterativa 635 10000
+iterativa 718 100000
+iterativa 817 1000000
+iterativa 997 10000000
+recursiva 906 1000
+recursiva 935 10000
+recursiva 225 100000
+recursiva 240 1000000
+recursiva 286 10000000
